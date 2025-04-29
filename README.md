@@ -16,7 +16,7 @@ Este é um script simples para sincronizar automaticamente o horário do Windows
 
 ## Download
 
-Baixe a última versão em: [Releases](https://github.com/seu-usuario/TimeSync/releases)
+Baixe a última versão em: [Releases](https://github.com/JosueLeit/TymeSync/releases)
 
 ## Instalação Rápida
 
@@ -151,4 +151,4 @@ Se o horário não estiver sincronizando:
 4. Se a instalação automática falhar:
    - Certifique-se de executar como administrador
    - Tente a instalação manual
-   - Verifique se o arquivo `sync_time.bat` está no mesmo diretório que `install_task.bat` 
+   - Verifique se o arquivo `sync_time.bat` está no mesmo diretório que `install_task.bat`
